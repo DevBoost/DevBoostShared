@@ -2,7 +2,7 @@
 <feature
       id="de.devboost.shared.commons"
       label="DevBoost Shared Plug-in - Commons"
-      version="1.0.1"
+      version="1.0.2"
       provider-name="DevBoost GmbH - Germany">
 
    <description>
